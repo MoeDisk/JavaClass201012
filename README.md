@@ -1,6 +1,6 @@
 # School_JavaClass201012
 
-<center><h2>201012_HardWare：实验二 PC机模拟程序：</h2></center>
+<h2>201012_HardWare：实验二 PC机模拟程序：</h2>
 
 ## 实验内容：
 
