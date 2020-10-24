@@ -25,7 +25,7 @@ Course.java：来存一些课程的属性。
 ## 实验精髓
 
 ```
-继承
+==继承==
 public class Data_Make {
     private String id;
     private String name;
@@ -43,7 +43,7 @@ public class Student extends Data_Make {
 ```
 
 ```
-toString()
+==toString()==
 public String toString(){
             return "=====\n"
                     +"学生ID："+getId()+"\n"
