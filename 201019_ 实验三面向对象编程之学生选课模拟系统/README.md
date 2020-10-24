@@ -22,6 +22,37 @@ Data_Operate.java：来存一些教师和学生的信息，还有增加删除功
 
 Course.java：来存一些课程的属性。
 
+## 实验精髓
+
+```
+继承
+public class Data_Make {
+    private String id;
+    private String name;
+    private String gender;
+
+public class Teacher extends Data_Make {
+	public Teacher(String id, String name, String gender) {
+		super(id, name, gender);
+	}
+
+public class Student extends Data_Make {
+        public Student(String id, String name, String gender){
+            super(id,name,gender);
+        }
+```
+
+```
+toString()
+public String toString(){
+            return "=====\n"
+                    +"学生ID："+getId()+"\n"
+                    +"学生姓名："+getName()+"\n"
+                    +"学生性别："+getGender()+"\n"
+                    +"学生课程："+getCourseName();
+        }
+```
+
 ## 实验结果
 
 成功完成正确输出。
