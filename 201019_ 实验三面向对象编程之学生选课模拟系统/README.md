@@ -56,11 +56,17 @@ public String toString(){
 成功完成正确输出。
 
 =====
+
 课程信息：语文
+
 课程ID：10
+
 学生姓名：WangFei1
+
 选这个课 语文 的学生有 1 个
+
 课程教室：100
+
 课程教师：ZhangShiBo1
 
 ## 实验感想
