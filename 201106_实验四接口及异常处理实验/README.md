@@ -49,6 +49,8 @@ try {
 
 成功完成正确输出。
 
+<img src="https://raw.githubusercontent.com/MoeDisk/JavaClass201012/main/201106_%E5%AE%9E%E9%AA%8C%E5%9B%9B%E6%8E%A5%E5%8F%A3%E5%8F%8A%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C/show.PNG">
+
 
 ## 实验感想
 
