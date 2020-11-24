@@ -77,7 +77,7 @@
 
 成功完成正确输出。
 
-<img src="https://raw.githubusercontent.com/MoeDisk/JavaClass201012/main/201106_%E5%AE%9E%E9%AA%8C%E5%9B%9B%E6%8E%A5%E5%8F%A3%E5%8F%8A%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C/show.PNG">
+<img src="https://raw.githubusercontent.com/MoeDisk/JavaClass201012/main/201122_%E5%AE%9E%E9%AA%8C%E4%BA%94%E6%A8%A1%E6%8B%9F%E5%AD%A6%E7%94%9F%E4%BD%9C%E4%B8%9A%E5%A4%84%E7%90%86/pic1.PNG">
 
 
 ## 实验感想
